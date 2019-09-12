@@ -1,0 +1,199 @@
+/* font-family: 'Gayathri', sans-serif;
+font-family: 'Domine', serif; */
+
+.nav-bar{
+    background-color: lightgray;
+    height: 3%; 
+    border-style: dotted; 
+    border-color: lightgoldenrodyellow;
+}
+
+.logo{
+    border-style: dotted;
+    border-color: lightgoldenrodyellow;
+    font-family: 'Domine', serif;
+}
+
+.orgs{
+    color: goldenrod;  
+    padding-top: 2px;
+    margin: 10px;
+    font-size: 40px;
+    display: inline; 
+    margin-left: 140px; 
+    font-family: 'Domine', serif;
+}  
+
+.HAC{ 
+    Color: darkgray; 
+    font-weight: bold; 
+    line-height: 1.7; 
+}
+
+a{
+    text-decoration: none; 
+    border: 2px solid goldenrod;
+    border-radius: 5px; 
+    height: 20px; 
+    color: goldenrod; 
+}
+a:hover{
+    background: silver;
+}
+
+li{
+    list-style-type: none;
+}
+
+.divisionpic{
+    height: 165px; 
+    border-style: solid;
+    border-color: goldenrod;
+    width: 180px;
+}
+
+.WBO{
+    padding: 5px;
+    display: inline;
+    color: goldenrod; 
+    list-style-type: none;
+    padding: 50px; 
+    display: inline; 
+    padding-top: 5px;
+}
+.WBOfont{
+    color: goldenrod;
+}
+.WBOmain{
+    height: 165px; 
+    border-style: solid;
+    border-color: goldenrod;
+    width: 180px;
+}
+
+.WBA{
+    padding: 5px;
+    display: inline;
+    color: goldenrod; 
+    list-style-type: none;
+    padding: 50px; 
+    display: inline; 
+    padding-top: 5px;
+}
+.WBAfont{
+    color: goldenrod; 
+}
+.WBAmain{
+    height: 165px;
+    border-style: solid;
+    border-color: goldenrod;
+    width: 180px;
+}
+
+.WBC{
+    padding: 5px;
+    display: inline;
+    color: goldenrod; 
+    list-style-type: none;
+    padding: 50px; 
+    display: inline; 
+    padding-top: 5px;
+}
+.WBCfont{
+    color: goldenrod;
+}
+.WBCmain{
+    height: 160px;
+    border-style: solid;
+    border-color: goldenrod;
+    margin-top: 5px; 
+    width: 180px;
+    padding: 3px; 
+}
+
+.IBF{
+    padding: 5px;
+    display: inline;
+    color: goldenrod; 
+    list-style-type: none;
+    padding: 50px; 
+    display: inline; 
+    padding-top: 5px;
+}
+.IBFfont{
+    color: goldenrod;
+}
+.IBFmain{
+    height: 165px;
+    border-style: solid;
+    border-color: goldenrod;
+    width: 180px;
+}
+
+p{
+    text-align: center;
+    color: goldenrod; 
+}
+
+
+h2{
+    text-align: center;     
+    color: goldenrod; \
+    font-family: 'Domine', serif;
+}
+
+header{
+    height: 60px;
+    background-color: lightgoldenrodyellow; 
+}
+
+.globe{
+   height: 60px; 
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+footer{
+    height: 60px; 
+    background-color: lightgoldenrodyellow;
+}
+
+.inline{
+    display: inline-block; 
+    margin-left: 30px; 
+    padding: 20px; 
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.diffdivisions{
+    font-family: 'Gayathri', sans-serif;
+    color: darkgray; 
+    font-weight: bold; 
+    line-height: 5;
+}
+
+i{
+    color: rgb(190, 142, 18); 
+}
+
+.social{
+    height: 50px;
+    width: 80px; 
+    display: inline-block;
+    text-align: center; 
+}
+
+.HW{
+    height: 180px;  
+    width: 190px; 
+    display: inline-block; 
+    margin-left: 23px; 
+    padding: 23px; 
+}
