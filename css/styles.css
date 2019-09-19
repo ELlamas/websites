@@ -192,8 +192,102 @@ i{
 
 .HW{
     height: 180px;  
-    width: 190px; 
+    width: 195px; 
     display: inline-block; 
-    margin-left: 23px; 
-    padding: 23px; 
+    margin-left: 24px; 
+    padding: 19px; 
+    padding-bottom: 0px; 
+}
+
+.HWP{
+    margin-left: 300px; 
+    padding: 22px; 
+    color: goldenrod;
+    word-spacing: 115px;  
+}
+
+.CW{
+    height: 180px;  
+    width: 195px; 
+    display: inline-block; 
+    margin-left: 24px; 
+    padding: 19px; 
+    padding-bottom: 0px; 
+}
+
+.LH{
+    height: 180px;  
+    width: 195px; 
+    display: inline-block; 
+    margin-left: 24px; 
+    padding: 19px; 
+    padding-bottom: 0px; 
+}
+
+.SM{
+    height: 180px;  
+    width: 195px; 
+    display: inline-block; 
+    margin-left: 24px; 
+    padding: 19px; 
+    padding-bottom: 0px; 
+}
+
+.MW{
+    height: 180px;  
+    width: 195px; 
+    display: inline-block; 
+    margin-left: 24px; 
+    padding: 19px; 
+    padding-bottom: 0px; 
+}
+
+.JMW{
+    height: 180px;  
+    width: 195px; 
+    display: inline-block; 
+    margin-left: 24px; 
+    padding: 19px; 
+    padding-bottom: 0px; 
+}
+
+.WW{
+    height: 180px;  
+    width: 195px; 
+    display: inline-block; 
+    margin-left: 24px; 
+    padding: 19px; 
+    padding-bottom: 0px;
+}
+
+.JW{
+    height: 180px;  
+    width: 195px; 
+    display: inline-block; 
+    margin-left: 24px; 
+    padding: 19px; 
+    padding-bottom: 0px;
+}
+
+.LW{
+    height: 180px;  
+    width: 195px; 
+    display: inline-block; 
+    margin-left: 24px; 
+    padding: 19px; 
+    padding-bottom: 0px;
+}
+
+.JLW{
+    height: 180px;  
+    width: 195px; 
+    display: inline-block; 
+    margin-left: 24px; 
+    padding: 19px; 
+    padding-bottom: 0px;
+}
+
+.A2{
+    border-style: none;
+
 }
